@@ -91,4 +91,3 @@ A script `scripts/incremental_upload.sh` is provided to simulate the development
     npm install
     npm run dev
     ```
-4.  **Verify**: Open `http://localhost:3000`.
