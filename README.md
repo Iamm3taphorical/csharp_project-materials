@@ -1,7 +1,5 @@
 # Enterprise Weather Application
 
-> **Instructor/Reviewer Note**: This project simulates a disciplined 20-day development cycle of an enterprise-grade system. It features a custom **SQL-based Forward-Chaining HashMap** for caching, complying with strict advanced data structure requirements.
-
 ## 1. System Overview
 This is a Full-Stack application composed of:
 - **Frontend**: Next.js 14, Tailwind CSS, Shadcn/UI, framer-motion. Features a dynamic `LiquidGlassCard` UI.
